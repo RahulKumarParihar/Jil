@@ -5,7 +5,7 @@
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\Jil\Jil.csproj" />
-    <PackageReference Include="Sigil" Version="4.7.0" />
+    <PackageReference Include="Sigil" Version="5.0.0" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
