@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFrameworks>net452;netcoreapp1.0;netcoreapp2.0</TargetFrameworks>
-    <xUnitVersion>2.4.0-beta.1.build3958</xUnitVersion>
+    <xUnitVersion>2.4.1</xUnitVersion>
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\Jil\Jil.csproj" />
