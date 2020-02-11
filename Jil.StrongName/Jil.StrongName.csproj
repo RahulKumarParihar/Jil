@@ -14,7 +14,7 @@
     <Copyright>Copyright © Kevin Montrose 2013 - 2018</Copyright>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Sigil" Version="4.7.0" />
+    <PackageReference Include="Sigil" Version="5.0.0" />
   </ItemGroup>
   <ItemGroup Condition="$(TargetFramework) == 'net45'">
     <Reference Include="Microsoft.CSharp" />
